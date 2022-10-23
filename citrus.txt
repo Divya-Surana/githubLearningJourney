@@ -5,3 +5,4 @@ Raspberries are pink
 blueberries are blue
 Third color of rainbow is yellow
 fourth color of rainbow is green
+Rainbow have 7 colors
