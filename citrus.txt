@@ -3,3 +3,4 @@ lemons are yellow
 Limes are green
 Raspberries are pink
 blueberries are blue
+Third color of rainbow is yellow
